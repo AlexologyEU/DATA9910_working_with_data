@@ -10,3 +10,6 @@ return_jedi <- c(309.306, 165.8)
 box_office <- c(new_hope, empire_strikes, return_jedi)
 sw_matrix <- matrix(box_office, byrow = TRUE, nrow = 3)
 sw_matrix
+
+
+print("Test does this work")
