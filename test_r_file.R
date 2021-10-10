@@ -15,3 +15,5 @@ sw_matrix
 print("Test does this work")
 a <- c(1,2,3,4,5)
 print(a * 2)
+
+print("I have further tests")
